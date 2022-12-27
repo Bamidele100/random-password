@@ -28,5 +28,8 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
+##
+URL
+https://bamidele100.github.io/random-password/
 - - -
 © 2022 Bamidele Talabi. Confidential and Proprietary. All Rights Reserved.
